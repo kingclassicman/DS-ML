@@ -15,5 +15,7 @@ elif st.button("💰 ทำความสะอาดข้อมูล ไฟ�
     st.switch_page("pages/clean_app_KingClassicMan.py")
 elif st.button("💰 ทำความสะอาดข้อมูล"):
     st.switch_page("pages/clean_app.py")
+elif st.button("💰 ทำความสะอาดข้อมูล Customer"):
+    st.switch_page("pages/clean_customers.py")
 
 
