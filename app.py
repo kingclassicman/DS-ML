@@ -4,7 +4,7 @@ st.set_page_config(page_title="MyApp", layout="wide")
 
 st.title("🏠 หน้าหลัก ")
 st.write("### Boot Camp: Data Science and Machine Learning (Chanakan) ")
-st.markdown(''':Chanakan''')
+st.markdown(''':rainbow[Chanakan Punnuwong] ''')
 st.info("7 Day Intensive Hands-on Workshop")
 st.info(" ******************************** Hello ชาวโลก ******************************** ")
 st.write("##### Day 1: การจัดการข้อมูลพื้นฐานแล")
