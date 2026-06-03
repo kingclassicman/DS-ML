@@ -5,3 +5,8 @@ scikit-learn
 joblib
 plotly
 seaborn
+numpy
+StandardScaler
+MinMaxScaler
+LabelEncoder
+warnings
